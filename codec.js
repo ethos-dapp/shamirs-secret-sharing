@@ -1,3 +1,4 @@
+import { Buffer } from '@craftzdog/react-native-buffer'
 const { zeroes } = require('./table')
 
 const {

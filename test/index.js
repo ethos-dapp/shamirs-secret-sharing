@@ -1,4 +1,5 @@
 const { split, combine } = require('../')
+import { Buffer } from '@craftzdog/react-native-buffer'
 const codec = require('../codec')
 const test = require('ava')
 

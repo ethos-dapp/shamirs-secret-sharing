@@ -1,3 +1,4 @@
+import { Buffer } from '@craftzdog/react-native-buffer'
 const { BIT_COUNT, BIT_SIZE } = require('./constants')
 
 function parse(input) {

@@ -1,3 +1,4 @@
+import { Buffer } from '@craftzdog/react-native-buffer'
 const { BIN_ENCODING } = require('./constants')
 const { lagrange } = require('./lagrange')
 const { parse } = require('./share')
